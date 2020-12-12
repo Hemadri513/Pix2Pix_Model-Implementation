@@ -6,5 +6,6 @@ AI Model (GANs) Reconstructs Facial Expressions from One Face to Another Face
  * Download required [datasets](https://drive.google.com/file/d/1XF3l1vH5C7yxZLPhEcYk5gLBWy4x-Htb/view?usp=sharing) here.
  * Run the notebook
  * Check the Generated outputs at the location ./results
- 
+ * For more Technical details click [here](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.git)
+ * Source [video](https://youtu.be/y5Aw6WG4Dww)
  
